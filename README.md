@@ -40,3 +40,13 @@ Approach and Solution:
     >Implement setter and getter on every attribute mentioned.
     >Use of to_string method to  format the student's information as a string in a specific format.
     >Read the input values and use the methods.
+
+<b>27th Jan</b>
+Problem Statement:
+    Create a derived class from base class Triangle named as Isosceles Triangle which will contain description function and isosceles function.
+    Show the inheritance.
+
+Platform used: HackeRank
+
+Approach and Solution:
+    Inheritance is one of the major property of Object Oriented Programming. Inheritance allows us to define a class in terms of other class and increases the reusability of the code. In this problem we will first create base class Triangle with method triangle and then inherit it with another derived class called Isosceles with two methods isosceles and description. And then, in main function we will create a object of Isoceles(i.e. derived class) and with that we will call the methods of both the class. 
