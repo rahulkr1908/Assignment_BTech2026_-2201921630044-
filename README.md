@@ -5,7 +5,7 @@ This is a README file which will consist the details like
      > Approach and solution explaination
 of daily problem solved of oops.
 
-<b> 26th Jan </b>
+<b> 26th Jan </b> <br>
 Problem statement:
     We can store details related to a student in a class consisting of his age (int), first_name (string), last_name (string) and standard (int).
 
@@ -41,7 +41,7 @@ Approach and Solution:
     >Use of to_string method to  format the student's information as a string in a specific format.
     >Read the input values and use the methods.
 
-<b>27th Jan</b>
+<b>27th Jan</b> <br>
 Problem Statement:
     Create a derived class from base class Triangle named as Isosceles Triangle which will contain description function and isosceles function.
     Show the inheritance.
