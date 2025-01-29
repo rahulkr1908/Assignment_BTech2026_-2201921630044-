@@ -50,3 +50,18 @@ Platform used: HackeRank
 
 Approach and Solution:
     Inheritance is one of the major property of Object Oriented Programming. Inheritance allows us to define a class in terms of other class and increases the reusability of the code. In this problem we will first create base class Triangle with method triangle and then inherit it with another derived class called Isosceles with two methods isosceles and description. And then, in main function we will create a object of Isoceles(i.e. derived class) and with that we will call the methods of both the class. 
+
+<b>28th Jan</b>
+Problem Statement:
+    We have a class A which is the base class and we have a class B which is derived from class A and we have a class C which is derived from class B, we can access the functions of both class A and class B by creating an object for class C. Hence, this mechanism is called multi-level inheritance. (B inherits A and C inherits B.)
+
+    Create a class called Equilateral which inherits from Isosceles and should have a function such that the output is as given below.
+
+    I am an equilateral triangle
+    I am an isosceles triangle
+    I am a triangle
+
+Platform Used: HackerRank
+
+Approach and solution:
+    This is a problem related to Multi level inheritance. it is a type of inherritance in which Class B inherits class A and further class C inherits class B. So, we can access the methods of both the class(i.e, class A and class B) from the object of class C. 
